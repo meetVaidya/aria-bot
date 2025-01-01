@@ -1,0 +1,16 @@
+{
+  "name": "aria-bot",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.47.9",
+    "discord.js": "^14.16.3",
+    "openai": "^4.77.0"
+  }
+}
