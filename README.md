@@ -1,4 +1,4 @@
-# aria-bot
+# AriaSan
 
 To install dependencies:
 
